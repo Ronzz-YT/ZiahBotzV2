@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Ronzz-Ofc/ZiahBotzV2/blob/master/temp/media/logoNya.jpg" alt="ZiahBotz" width="100"/>
+<img src="https://github.com/Ronzz-Ofc/ZiahBotzV2/blob/master/temp/media/logoNya.jpg" alt="ZiahBotz" width="500"/>
 
 
 </p>
