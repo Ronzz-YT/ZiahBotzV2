@@ -1,0 +1,15 @@
+{
+    "wait": "⌛ Mohon tunggu sebentar...",
+    "error": {
+        "Iv": "Link yang kamu berikan tidak valid",
+        "api": "Maaf terjadi kesalahan"
+    },
+    "OnlyGrup": "Command ini hanya bisa digunakan di grup",
+    "OnlyPM": "Command ini hanya bisa digunakan di private message",
+    "GrupAdmin": "Command ini hanya bisa digunakan oleh Admin Grup",
+    "BotAdmin": "Bot Harus menjadi admin",
+    "OnlyOwner": "Command ini hanya dapat digunakan oleh owner bot",
+    "OnlyDev": "Command ini hanya dapat digunakan oleh developer bot",
+    "OnlyPrem": "Command ini khusus member premium",
+    "OnlyUser": "Kamu belum terdaftar di database bot, ketik *#daftar* untuk memverifikasi."
+}
